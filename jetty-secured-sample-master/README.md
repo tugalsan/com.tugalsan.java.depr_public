@@ -1,0 +1,1 @@
+Fork of the [Heroku Dev Center embedded jetty sample](https://github.com/heroku/devcenter-java) enhanced with basic authentication. Useful for simple password protection of projects you're not quite ready to share with the world.
