@@ -27,7 +27,7 @@
     <org.slf4j.jcl-over-slf4j.version>1.7.30</org.slf4j.jcl-over-slf4j.version>
     <org.slf4j.jul-to-slf4j.version>1.7.30</org.slf4j.jul-to-slf4j.version>
     <junit.junit.version>4.13.2</junit.junit.version>
-    <com.h2database.h2.version>1.4.199</com.h2database.h2.version>
+    <com.h2database.h2.version>2.2.220</com.h2database.h2.version>
     <jakarta.json.jakarta.json-api.version>2.1.1</jakarta.json.jakarta.json-api.version>
     <at.favre.lib.bcrypt.version>0.10.2</at.favre.lib.bcrypt.version>
     <org.apache.lucene.version>8.7.0</org.apache.lucene.version>
