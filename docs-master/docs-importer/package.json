@@ -28,6 +28,6 @@
     "recursive-readdir": "^2.2.2",
     "minimatch": "^3.0.4",
     "request": "^2.83.0",
-    "underscore": "^1.8.3"
+    "underscore": "^1.13.8"
   }
 }
